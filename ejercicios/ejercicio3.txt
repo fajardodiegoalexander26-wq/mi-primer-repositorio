@@ -1,0 +1,3 @@
+Ejercicio 3
+
+Crear un programa que imprima los números del 1 al 10 en pantalla.
